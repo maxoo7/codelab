@@ -1,7 +1,10 @@
-p{
+.parrafoPrincipal{
 	font-family: "Indie+Flower", helvetica;
 	font-size: 64px;
 	padding: 50px;
 	text-align: center;
 	color: #7ac143;
+}
+.subtitulo{
+	text-align: left;
 }
